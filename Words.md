@@ -1,6 +1,5 @@
 minimum: 最低的；最小值  
 materials： 材料  
-intermediate： 中间的
 harness: 利用
 avenue ：途径  
 occupation：职业  
@@ -8,4 +7,22 @@ profession：职业
 designer：设计师  
 accountant：会计  
 dentist：牙医  
-professor：教授
+professor：教授  
+primary：初级的  
+elementary：初级的  
+basic：基本的、初级的  
+babyish：初级的
+intermediate： 中间的、中级的  
+secondary：中级的  
+advanced：高级的  
+city center：市中心  
+town center：市中心  
+downtoen：市中心  
+urban arear：市中心  
+rural arear： 郊区
+outtskirts：郊区  
+suburb：郊区n.  
+suburban：郊区的adj.  
+dietary：饮食的  
+dietician：营养专家  
+balanced diet：平衡饮食  
