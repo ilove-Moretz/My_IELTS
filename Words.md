@@ -26,4 +26,15 @@ suburban：郊区的adj.
 dietary：饮食的  
 dietician：营养专家  
 balanced diet：平衡饮食  
-saint 圣人、神圣的
+saint 圣人、神圣的</br>
+substantially  大幅度地 
+notion  概念 
+schedule 计划表
+mystery 秘密
+balcony 阳台
+apartment 公寓
+closet 壁橱
+basement 地下室
+fireplace 壁炉
+laundromat 洗衣房
+deposit 押金
